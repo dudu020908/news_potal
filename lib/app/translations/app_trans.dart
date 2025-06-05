@@ -11,6 +11,7 @@ class AppTrans {
   static const newsList = (
     //
     hotTopic: 'newsList.hotTopic',
-    lastestNew: 'newsList.lastestNews',
+    latestNews: 'newsList.latestNews',
+    noData: 'newsList.noData',
   );
 }
